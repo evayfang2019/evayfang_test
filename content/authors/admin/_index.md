@@ -1,4 +1,4 @@
----
+﻿---
 # Display name
 title: Yiwei Fang
 
@@ -18,22 +18,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reproductive Epidemiology
+  - Environmental Health
+  - Metabolomics
+  - Data Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master Degree in Obstetrics and Gynecology
+      institution: Huazhong University of Science and Technology
+      time: Sep 2020 - Present
+    - course: Bachelor's Degree in Clinical Medicine
+      institution: Wuhan University of Science and Technology
+      time: Sep 2015 - Jun 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,13 +62,13 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'evayfang@163.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am now a master degree canditate of obstetrics and gynecology at the Institution of Reproductive Health, Tongji Medical College, HUST. My overarching research interests include reproductive epidemiology, environmental health, metabolomics and data science. Specifically, I am interested in data science, including 1) Statistical analysis of mixed exposures, 2) Dose-response metabolomics study, and 3) Metabolomics-wide association study.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
