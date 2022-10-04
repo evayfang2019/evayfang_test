@@ -65,10 +65,10 @@ social:
     link: uploads/resume.pdf
   - icon: weixin
     icon_pack: fab
-    link: uploads/weixin.png
+    link: uploads/weixin.jpg
   - icon: qq
     icon_pack: fab
-    link: uploads/qq.png
+    link: uploads/qq.jpg
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'evayfang@163.com'
 
@@ -80,4 +80,4 @@ I am now a master degree canditate of obstetrics and gynecology at the Instituti
 
 In the meantime, my ongoing or future research efforts include early diagnostic markers for pregnancy-related diseases and adverse birth outcomes, as well as cause-and-effect inference studies. The strategy is to promote maternal and child health through "association establishment - etiology identification - early prediction - timely intervention".
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
