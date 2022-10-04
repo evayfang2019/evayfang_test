@@ -53,8 +53,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-  - icon: fa-researchgate
-    icon_pack: researchgate
+  - icon: researchgate
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Yiwei-Fang-4    
 
 # Link to a PDF of your resume/CV.
