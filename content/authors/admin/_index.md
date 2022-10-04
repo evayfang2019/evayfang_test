@@ -1,4 +1,4 @@
-﻿---
+---
 # Display name
 title: Yiwei Fang
 
@@ -6,7 +6,7 @@ title: Yiwei Fang
 superuser: true
 
 # Role/position/tagline
-role: Master Degree Canditate of Obstetrics and Gynecology 
+role: Master Degree Canditate of Medicine
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: http://english.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include reproductive epidemiology, environmental Health, metabolomics and data science.
 
 # Interests to show in About widget
 interests:
@@ -53,13 +53,16 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - icon: fa-researchgate
+    icon_pack: researchgate
+    link: https://www.researchgate.net/profile/Yiwei-Fang-4    
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'evayfang@163.com'
