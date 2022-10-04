@@ -47,15 +47,15 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=TctfRbsAAAAJ&hl=zh-CN
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Yiwei-Fang-4 
+  - icon: ORCID
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-9397-0975
   - icon: github
     icon_pack: fab
     link: https://github.com/evayfang2019
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Yiwei-Fang-4    
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -63,7 +63,12 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
+  - icon: weixin
+    icon_pack: fab
+    link: uploads/weixin.png
+  - icon: qq
+    icon_pack: fab
+    link: uploads/qq.png
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'evayfang@163.com'
 
