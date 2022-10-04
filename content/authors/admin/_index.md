@@ -51,7 +51,7 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Yiwei-Fang-4 
   - icon: ORCID
-    icon_pack: fab
+    icon_pack: ai
     link: https://orcid.org/0000-0002-9397-0975
   - icon: github
     icon_pack: fab
