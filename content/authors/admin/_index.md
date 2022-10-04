@@ -78,6 +78,6 @@ highlight_name: true
 
 I am now a master degree canditate of obstetrics and gynecology at the Institution of Reproductive Health, Tongji Medical College, HUST. My overarching research interests include reproductive epidemiology, environmental health, metabolomics and data science. Specifically, I am interested in data science, including 1) Statistical analysis of mixed exposures, 2) Dose-response metabolomics study, and 3) Metabolomics-wide association study.
 
-In the meantime, my ongoing or future research efforts include early diagnostic markers for pregnancy-related diseases and adverse birth outcomes, as well as cause-and-effect inference studies. The strategy is to promote maternal and child health through "association establishment - etiology identification - early prediction - timely intervention".
+In the meantime, my ongoing or future research efforts include early diagnostic markers for pregnancy-related diseases and adverse birth outcomes, as well as cause-and-effect inference studies. The strategy is to promote maternal and child health through "establishing association - identifying etiology - early predicting - timely intervention"
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
