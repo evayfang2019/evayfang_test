@@ -25,11 +25,11 @@ date_format: Jan 2006
 item:
   - certificate_url: http://english.hust.edu.cn/
     date_end: ''
-    date_start: '2021-10'
+    date_start: '2021-01-25'
     description: ''
-    organization: Huazhong University of Science and Technology
+    organization: HUST
     organization_url: http://english.hust.edu.cn/
-    title: Merit student
+    title: Neural Networks and Deep Learning
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
