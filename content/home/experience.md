@@ -25,7 +25,7 @@ experience:
   - title: Reaserch Advisor of Undergraduates of Zhang's Lab.
     company: Institution of Reproductive Health, Tongji Medical College, HUST
     company_url: ''
-    company_logo: HUST
+    company_logo: org-Zhang's lab
     location: Wuhan
     date_start: '2020-09-01'
     date_end: ''
