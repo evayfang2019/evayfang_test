@@ -33,8 +33,8 @@ feature:
     icon_pack: fab
     name: python
   - description: 75%
-    icon: flask-vial
-    icon_pack: fas
+    icon: fa-duotone fa-flask-vial
+    icon_pack: fab
     name: Biotechnology    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
