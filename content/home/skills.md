@@ -19,7 +19,7 @@ feature:
   - description: 85%
     icon: r-project
     icon_pack: fab
-    name: R
+    name: R-project
   - description: 85%
     icon: chart-line
     icon_pack: fas
@@ -27,15 +27,19 @@ feature:
   - description: 40%
     icon: linux
     icon_pack: fab
-    name: linux
+    name: Linux
   - description: 40%
     icon: python
     icon_pack: fab
-    name: python
+    name: Python
   - description: 75%
     icon: vial
     icon_pack: fas
     name: Biotechnology    
+  - description: 70%
+    icon: markdown
+    icon_pack: fab
+    name: Markdown       
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
