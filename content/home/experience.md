@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Reaserch Advisor of Undergraduates of Zhang's Lab.
     company: Institution of Reproductive Health, Tongji Medical College, HUST
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'http://irh.hust.edu.cn/index.htm'
+    company_logo: org-z
     location: Wuhan
     date_start: '2020-09-01'
     date_end: ''
@@ -36,6 +36,16 @@ experience:
         * Medical statistics
         * Systematic review and meta-analysis
         * R, SPSS, STATA
+
+  - title: Intern
+    company: Puren hospital
+    company_url: 'http://www.purenyy.com/index.html#/'
+    company_logo: org-p
+    location: Wuhan
+    date_start: '2018-09-01'
+    date_end: '2020-06-31'
+    description: Surgery Assistant, Case Record.
+
 design:
   columns: '2'
 ---
