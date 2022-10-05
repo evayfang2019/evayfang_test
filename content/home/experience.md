@@ -37,14 +37,14 @@ experience:
         * Systematic review and meta-analysis
         * R, SPSS, STATA
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Intern
+    company: Puren hospital
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Wuhan
+    date_start: '2018-09-01'
+    date_end: '2020-05-31'
+    description: Surgery assistant,Case records.
 
 design:
   columns: '2'
