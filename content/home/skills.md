@@ -33,7 +33,7 @@ feature:
     icon_pack: fab
     name: python
   - description: 75%
-    icon: fa-flask-vial
+    icon: vial
     icon_pack: fas
     name: Biotechnology    
 # Uncomment to use emoji icons.
