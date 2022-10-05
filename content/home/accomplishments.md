@@ -29,7 +29,7 @@ item:
     description: ''
     organization: HUST
     organization_url: http://english.hust.edu.cn/
-    title: Neural Networks and Deep Learning
+    title: Merit student
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
