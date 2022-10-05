@@ -37,14 +37,6 @@ experience:
         * Systematic review and meta-analysis
         * R, SPSS, STATA
 
-  - title: Intern
-    company: Puren hospital
-    company_url: ''
-    company_logo: org-x
-    location: Wuhan
-    date_start: '2018-09-01'
-    date_end: '2020-06-31'
-    description: Surgery Assistant, Case Record.
 
 design:
   columns: '2'
