@@ -25,7 +25,7 @@ experience:
   - title: Reaserch Advisor of Undergraduates of Zhang's Lab.
     company: Institution of Reproductive Health, Tongji Medical College, HUST
     company_url: 'http://irh.hust.edu.cn/index.htm'
-    company_logo: org-z
+    company_logo: org-gc
     location: Wuhan
     date_start: '2020-09-01'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Intern
     company: Puren hospital
     company_url: 'http://www.purenyy.com/index.html#/'
-    company_logo: org-p
+    company_logo: org-x
     location: Wuhan
     date_start: '2018-09-01'
     date_end: '2020-06-31'
