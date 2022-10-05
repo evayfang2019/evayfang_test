@@ -26,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master Degree in Obstetrics and Gynecology
+    - course: Master Degree Canditate of Medicine (Obstetrics and Gynecology)
       institution: Huazhong University of Science and Technology
-      year: Sep 2020 - Present
+      year: Jul 2020 - Present
     - course: Bachelor's Degree in Clinical Medicine
       institution: Wuhan University of Science and Technology
       year: Sep 2015 - Jun 2020
@@ -76,8 +76,8 @@ email: 'evayfang@163.com'
 highlight_name: true
 ---
 
-I am now a master degree canditate of obstetrics and gynecology at the Institution of Reproductive Health, Tongji Medical College, HUST. My overarching research interests include reproductive epidemiology, environmental health, metabolomics and data science. Specifically, I am interested in data science, including 1) Statistical analysis of mixed exposures, 2) Dose-response metabolomics study, and 3) Metabolomics-wide association study.
+I am now a master degree canditate of medicine, and I major in obstetrics and gynecology at the Institution of Reproductive Health, Tongji Medical College, HUST. My overarching research interests include reproductive epidemiology, environmental health, metabolomics and data science. Specifically, I am interested in data science, including 1) Statistical analysis of mixed exposures, 2) Dose-response metabolomics study, and 3) Metabolomics-wide association study.
 
-In the meantime, my ongoing or future research efforts include early diagnostic markers for pregnancy-related diseases and adverse birth outcomes, as well as cause-and-effect inference studies. The strategy is to promote maternal and child health through "establishing association - identifying etiology - early predicting - timely intervention"
+In the meantime, my ongoing research efforts include early diagnostic markers for pregnancy-related diseases and adverse birth outcomes, as well as cause-and-effect inference studies. The strategy is to promote maternal and child health through "establishing association - identifying etiology - early predicting - timely intervention"
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
