@@ -37,7 +37,7 @@ item:
     description: 
     organization: Sinopharm Gene Technology Co., Ltd
     organization_url: http://www.sinopharm.com/
-    title: Scholarship of Sinopharm Gene 
+    title: <font color=Blue>**Scholarship of Sinopharm Gene**</font> 
     url: ""
   - certificate_url: ""
     date_end: ''
@@ -45,7 +45,7 @@ item:
     description: ''
     organization: Huazhong University of Science and Technology
     organization_url: http://english.hust.edu.cn/
-    title: 'First-class academic scholarship'
+    title: <font color=Blue>**First-class academic scholarship**</font>
     url: ''
   - certificate_url: ""
     date_end: ''
@@ -53,7 +53,7 @@ item:
     description: ''
     organization: Huazhong University of Science and Technology
     organization_url: http://english.hust.edu.cn/
-    title: 'First-class academic scholarship'
+    title: <font color=Blue>**First-class academic scholarship**</font>
     url: ''
   - certificate_url: ""
     date_end: ''
@@ -61,7 +61,7 @@ item:
     description: ''
     organization: Wuhan University of Science and Technology
     organization_url: https://www.wust.edu.cn/english/
-    title: 'Pacemaker to Merit Student'
+    title: <font color=Blue>**Pacemaker to Merit Student**</font>
     url: '' 
     
 design:
