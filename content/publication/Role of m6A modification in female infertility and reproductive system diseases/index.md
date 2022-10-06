@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: uploads/pdf/full-text-m6a.pdf
+url_pdf: "https://www.ijbs.com/v18p3592.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
