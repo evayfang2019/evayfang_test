@@ -23,22 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: http://english.hust.edu.cn/
+  - certificate_url: ""
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2021-11-01'
     description: ''
-    organization: HUST
+    organization: Huazhong University of Science and Technology
     organization_url: http://english.hust.edu.cn/
     title: Merit student
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: ""
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date_start: '2021-12-01'
+    description: 
+    organization: Sinopharm Gene Technology Co., Ltd
+    organization_url: http://www.sinopharm.com/
+    title: Scholarship of Sinopharm Gene 
+    url: ""
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
