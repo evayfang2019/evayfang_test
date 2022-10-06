@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: 'First/Corresponding Author Publications'
+subtitle: 'a. First/Corresponding Author Publications'
 
 content:
   # Filter on criteria
