@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.ijbs.com/v18p3592.htm'
+url_pdf: Role of m6A modification in female infertility and reproductive system diseases/full-text.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
