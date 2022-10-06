@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Research Highlight
+title: Featured Publications
 subtitle: ''
 
 content:
@@ -19,10 +19,10 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: 'Yiwei Fang'
-    category: 'Environmental endocrine disruptors, Metabolomics'
-    publication_type: 'Original Article'
-    tag: 'Toxicology, Biomarker, Trophoblast'
+    author: ''
+    category: ''
+    publication_type: ''
+    tag: ''
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
