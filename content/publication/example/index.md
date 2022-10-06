@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Dose-response mapping of MEHP exposure with metabolic changes of trophoblast cell and determination of sensitive markers'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -33,7 +33,7 @@ publication_types: ['2']
 publication: In *Science of The Total Environment*
 publication_short: In *Sci Total Environ*
 
-abstract: Mono(2-ethylhexyl) phthalate (MEHP) is a metabolite of DEHP which is one of phthalic acid esters (PAEs) widely used in daily necessities. Moreover, MEHP has been proven to have stronger biological toxicity comparing to DEHP. In particular, several recent population-based studies have reported that intrauterine exposure to MEHP results in adverse pregnancy outcomes. To explore the mechanisms and metabolic biomarkers of MEHP exposure, we examined the metabolic status of HTR-8/Svneo cell lines exposed to different doses of MEHP (0, 1.25, 5.0, 20 μM). Global and dose-response metabolomics tools were used to identify metabolic perturbations and sensitive markers associated with MEHP. Only 22 metabolic features (accounted for <1 %) were significantly changed when exposed to 1.25 μM. However, when the exposure dose was increased to 5 or 20 μM, the number of significantly changed metabolic features exceeded 300 (approximately 10 %). In particular, amino acid metabolism, pyrimidine metabolism and glutathione metabolism were widely affected according to the enrich analysis of those significant altered metabolites, which has and have previously been reported to be closely related to fetal development. Moreover, 5'-UMP and N-acetylputrescine with the lowest effective concentrations (EC~-10~ = 0.1 μM and EC~+10~ = 0.11 μM, respectively) were identified as sensitive endogenous biomarkers of MEHP exposure.
+abstract: Mono(2-ethylhexyl) phthalate (MEHP) is a metabolite of DEHP which is one of phthalic acid esters (PAEs) widely used in daily necessities. Moreover, MEHP has been proven to have stronger biological toxicity comparing to DEHP. In particular, several recent population-based studies have reported that intrauterine exposure to MEHP results in adverse pregnancy outcomes. To explore the mechanisms and metabolic biomarkers of MEHP exposure, we examined the metabolic status of HTR-8/Svneo cell lines exposed to different doses of MEHP (0, 1.25, 5.0, 20 μM). Global and dose-response metabolomics tools were used to identify metabolic perturbations and sensitive markers associated with MEHP. Only 22 metabolic features (accounted for <1 %) were significantly changed when exposed to 1.25 μM. However, when the exposure dose was increased to 5 or 20 μM, the number of significantly changed metabolic features exceeded 300 (approximately 10 %). In particular, amino acid metabolism, pyrimidine metabolism and glutathione metabolism were widely affected according to the enrich analysis of those significant altered metabolites, which has and have previously been reported to be closely related to fetal development. Moreover, 5'-UMP and N-acetylputrescine with the lowest effective concentrations (EC-10 = 0.1 μM and EC+10 = 0.11 μM, respectively) were identified as sensitive endogenous biomarkers of MEHP exposure.
 
 # Summary. An optional shortened abstract.
 summary: Higher doses of MEHP lead to stronger metabolic perturbations in trophoblast cells. Amino acid, pyrimidine, and glutathione metabolism were affected by MEHP. 5′-UMP and N-acetylputrescine as potential sensitively markers for MEHP exposure.
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0048969722060235'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -69,19 +69,19 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+#projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}} Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software. {{% /callout %}}
 
 {{% callout note %}} Create your slides in Markdown - click the *Slides* button to check out the example. {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
