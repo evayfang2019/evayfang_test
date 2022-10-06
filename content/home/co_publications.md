@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Publications
-subtitle: 'First/Corresponding Author Publications'
+title:  Publications
+subtitle: ' Collaborative Publications'
 
 content:
   # Filter on criteria
