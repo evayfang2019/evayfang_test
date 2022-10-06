@@ -38,7 +38,7 @@ summary: Our meta-analysis proposes another important sight to investigate the e
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -59,7 +59,7 @@ url_video: ''
 image:
   caption: 'Image credit: [**Unsplash**](https://link.springer.com/article/10.1007/s11356-022-21171-4/figures/6)'
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
