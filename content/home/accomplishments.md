@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Huazhong University of Science and Technology
     organization_url: http://english.hust.edu.cn/
-    title: Merit student
+    title: <font color=Blue>**Merit student**</font>
     url: ''
   - certificate_url: ""
     date_end: ''
