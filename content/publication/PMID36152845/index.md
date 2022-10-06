@@ -12,9 +12,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'First author'
+  - 'Co-First author'
+  - 'Co-First author'
   - 'Corresponding author'
   
 date: '2022-09-22T00:00:00Z'
