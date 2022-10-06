@@ -32,7 +32,7 @@ author_notes:
   - 'Corresponding author'
   
 date: '2021-12-24T00:00:00Z'
-doi: '10.4103/aja202243'
+doi: '10.1111/jcmm.17119'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-12-24T00:00:00Z'
