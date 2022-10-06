@@ -6,33 +6,37 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Zhiliang Chen
+  - Jinyu Chen
+  - Huiping Zhang 
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
+  - 'Equal contribution'
+  - 'Corresponding author'
+  
+date: '2022-09-22T00:00:00Z'
+doi: '10.1016/j.scitotenv.2022.158924'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-09-21T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: *Science of The Total Environment*
+publication_short: *Sci Total Environ*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Mono(2-ethylhexyl) phthalate (MEHP) is a metabolite of DEHP which is one of phthalic acid esters (PAEs) widely used in daily necessities. Moreover, MEHP has been proven to have stronger biological toxicity comparing to DEHP. In particular, several recent population-based studies have reported that intrauterine exposure to MEHP results in adverse pregnancy outcomes. To explore the mechanisms and metabolic biomarkers of MEHP exposure, we examined the metabolic status of HTR-8/Svneo cell lines exposed to different doses of MEHP (0, 1.25, 5.0, 20 μM). Global and dose-response metabolomics tools were used to identify metabolic perturbations and sensitive markers associated with MEHP. Only 22 metabolic features (accounted for <1 %) were significantly changed when exposed to 1.25 μM. However, when the exposure dose was increased to 5 or 20 μM, the number of significantly changed metabolic features exceeded 300 (approximately 10 %). In particular, amino acid metabolism, pyrimidine metabolism and glutathione metabolism were widely affected according to the enrich analysis of those significant altered metabolites, which has and have previously been reported to be closely related to fetal development. Moreover, 5'-UMP and N-acetylputrescine with the lowest effective concentrations (EC~-10~ = 0.1 μM and EC~+10~ = 0.11 μM, respectively) were identified as sensitive endogenous biomarkers of MEHP exposure.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Higher doses of MEHP lead to stronger metabolic perturbations in trophoblast cells. Amino acid, pyrimidine, and glutathione metabolism were affected by MEHP. 5′-UMP and N-acetylputrescine as potential sensitively markers for MEHP exposure.
 
 tags: []
 
@@ -44,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0048969722060235'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -76,12 +80,8 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% callout note %}} Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software. {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% callout note %}} Create your slides in Markdown - click the *Slides* button to check out the example. {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
