@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: static/uploads/pdf/full-text-m6a.pdf
+url_pdf: uploads/pdf/full-text-m6a.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
