@@ -29,10 +29,11 @@ publication_types: ['2']
 publication: In *Frontiers in Immunology*
 publication_short: In *Front Immunol*
 
-abstract: Background: Varicocele (VC) is present in 35 - 40% of men with infertility. However, current surgical and antioxidant treatments are not completely effective. In addition to oxidative stress, it is likely that other factors such as testicular immune microenvironment disorder contribute to irreversible testicular. Evidence suggests that VC is associated with anti-sperm antibodies (ASAs), spermatogenesis and testosterone secretion abnormalities, and testicular cytokine production. Moreover, inhibition of inflammation can alleviate VC-mediated pathogenesis. The normal function of the testis depends on its immune tolerance mechanism. Testicular immune regulation is complex, and many infectious or non-infectious diseases may damage this precision system. The testicular immune microenvironment is composed of common immune cells and other cells involved in testicular immunity. The former includes testicular macrophages, T cells, dendritic cells (DCs), and mast cells, whereas the latter include Leydig cells and Sertoli cells (SCs). In animal models and in patients with VC, most studies have revealed an abnormal increase in the levels of ASAs and pro-inflammatory cytokines such as interleukin (IL)-1 and tumor necrosis factor (TNF)-alpha in the seminal plasma, testicular tissue, and even peripheral blood. It is also involved in the activation of potential inflammatory pathways, such as the nucleotide-binding oligomerization domain-like receptor family pyrin domain containing (NLRP)-3 pathway. Finally, the development of VC-mediated infertility (VMI) may be facilitated by abnormal permeability of proteins, such as claudin-11, that constitute the blood-testis barrier (BTB).The testicular immune response, including the production of ASAs and inflammatory factors, activation of inflammatory pathways, and destruction of the BTB may be involved in the pathogenesis of VMI it is necessary to further explore how patient outcomes can be improved through immunotherapy.
+abstract: The testicular immune microenvironment is composed of common immune cells and other cells involved in testicular immunity. The former includes testicular macrophages, T cells, dendritic cells (DCs), and mast cells, whereas the latter include Leydig cells and Sertoli cells (SCs). In animal models and in patients with VC, most studies have revealed an abnormal increase in the levels of ASAs and pro-inflammatory cytokines such as interleukin (IL)-1 and tumor necrosis factor (TNF)-alpha in the seminal plasma, testicular tissue, and even peripheral blood. It is also involved in the activation of potential inflammatory pathways, such as the nucleotide-binding oligomerization domain-like receptor family pyrin domain containing (NLRP)-3 pathway. Finally, the development of VC-mediated infertility (VMI) may be facilitated by abnormal permeability of proteins, such as claudin-11, that constitute the blood-testis barrier (BTB).
 
 # Summary. An optional shortened abstract.
 summary: The testicular immune response, including the production of ASAs and inflammatory factors, activation of inflammatory pathways, and destruction of the BTB may be involved in the pathogenesis of VMI it is necessary to further explore how patient outcomes can be improved through immunotherapy.
+
 tags: []
 
 # Display this page in the Featured widget?
@@ -55,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://www.frontiersin.org/articles/10.3389/fimmu.2021.729539/full)'
+  caption: 'Image credit: [**Unsplash**](https://www.frontiersin.org/files/Articles/729539/fimmu-12-729539-HTML/image_m/fimmu-12-729539-t001.jpg)'
   focal_point: ''
   preview_only: true
 
