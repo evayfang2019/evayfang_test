@@ -4,14 +4,22 @@ title: 'Cadmium exposure and the risk of GDM: evidence emerging from the systema
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
+authors: 
   - Minqi Zhou
+  - Lianqi Peng
+  - Jingming Wang
+  - Rong Cao 
+  - Zixuan Ou
   - admin
 
 
 # Author notes (optional)
 author_notes:
   - 'First author'
+  - 'Co-author'
+  - 'Co-author'
+  - 'Co-author'
+  - 'Co-author'
   - 'Corresponding author'
   
 date: '2022-06-08T00:00:00Z'

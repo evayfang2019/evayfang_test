@@ -4,15 +4,23 @@ title: 'Varicocele-Mediated Male Infertility: From the Perspective of Testicular
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
+authors: 
   - admin
-  - Yusu Fang  
+  - Yusu Fang
+  - Jia Xu
+  - Zhiyong Hu    
+  - Kai Zhao
+  - Chunyan Liu   
   - Huiping Zhang
-
+  
 # Author notes (optional)
 author_notes:
   - 'First author'
   - 'Co-First author'
+  - 'Co-author' 
+  - 'Co-author' 
+  - 'Co-author' 
+  - 'Co-author' 
   - 'Corresponding author'
   
 date: '2021-08-31T00:00:00Z'

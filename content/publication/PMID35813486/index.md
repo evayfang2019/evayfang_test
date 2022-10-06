@@ -4,15 +4,18 @@ title: 'Role of m6A modification in female infertility and reproductive system d
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
+authors: 
   - Jinyu Chen
   - admin
-
+  - Ying Xu
+  - Haotong Sun
 
 # Author notes (optional)
 author_notes:
   - 'First author'
   - 'Corresponding author'
+  - 'Co-author'
+  - 'Co-author'
   
 date: '2022-05-16T00:00:00Z'
 doi: '10.7150/ijbs.69771'

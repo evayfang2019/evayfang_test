@@ -4,10 +4,16 @@ title: 'Dose-response mapping of MEHP exposure with metabolic changes of trophob
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
+authors: 
   - admin
   - Zhiliang Chen
   - Jinyu Chen
+  - Minqi Zhou
+  - Yuanyao Chen
+  - Rong Cao
+  - Chunyan Liu
+  - Kai Zhao
+  - Min Wang  
   - Huiping Zhang 
 
 # Author notes (optional)
@@ -15,6 +21,12 @@ author_notes:
   - 'First author'
   - 'Co-First author'
   - 'Co-First author'
+  - 'Co-author'
+  - 'Co-author'
+  - 'Co-author'
+  - 'Co-author'
+  - 'Co-author'
+  - 'Corresponding author'
   - 'Corresponding author'
   
 date: '2022-09-22T00:00:00Z'

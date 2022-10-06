@@ -4,14 +4,24 @@ title: 'Effect of paternal age on offspring birth defects: a systematic review a
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
+authors: 
   - admin
+  - Yongfeng Wan
+  - Meilin Peng  
+  - Jia Xu  
+  - Zunpan Fan  
+  - Chunyan Liu  
   - Kai Zhao  
   - Huiping Zhang
 
 # Author notes (optional)
 author_notes:
   - 'First author'
+  - "Co-author "
+  - "Co-author "
+  - "Co-author "
+  - "Co-author "
+  - "Co-author "
   - 'Corresponding author'
   - 'Corresponding author'
   
