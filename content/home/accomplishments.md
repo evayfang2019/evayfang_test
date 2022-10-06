@@ -39,15 +39,31 @@ item:
     organization_url: http://www.sinopharm.com/
     title: Scholarship of Sinopharm Gene 
     url: ""
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: ""
+    date_end: ''
+    date_start: '2021-11-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Huazhong University of Science and Technology
+    organization_url: http://english.hust.edu.cn/
+    title: 'First-class academic scholarship'
     url: ''
-
+  - certificate_url: ""
+    date_end: ''
+    date_start: '2020-11-01'
+    description: ''
+    organization: Huazhong University of Science and Technology
+    organization_url: http://english.hust.edu.cn/
+    title: 'First-class academic scholarship'
+    url: ''
+  - certificate_url: ""
+    date_end: ''
+    date_start: '2017-11-01'
+    description: ''
+    organization: Wuhan University of Science and Technology
+    organization_url: https://www.wust.edu.cn/english/
+    title: 'Pacemaker to Merit Student'
+    url: '' 
+    
 design:
   columns: '2'
 ---
