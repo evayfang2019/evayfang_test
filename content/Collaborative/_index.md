@@ -1,5 +1,5 @@
 ---
-title: First/Corresponding Author Publications
+title: Collaborative Publications
 cms_exclude: true
 
 # View.
