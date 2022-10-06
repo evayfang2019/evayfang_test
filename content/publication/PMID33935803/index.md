@@ -4,19 +4,19 @@ title: 'Severe Acute Respiratory Syndrome Coronavirus 2 and Male Reproduction: R
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
+authors: 
   - Jia Xu
-  - Liting He
+  - Liting He 
   - Yuan Zhang
-  - Zhiyong Hu 
+  - Zhiyong Hu
   - Yufang Su
-  - admin
-  - Meilin Peng
+  - admin 
+  - Meilin Peng  
   - Zunpan Fan 
   - Chunyan Liu  
   - Kai Zhao  
   - Huiping Zhang
-
+  
 # Author notes (optional)
 author_notes:
   - 'First author'
@@ -31,11 +31,11 @@ author_notes:
   - 'Corresponding author'
   - 'Corresponding author'
   
-date: '2021-4-14T00:00:00Z'
+date: '2021-04-14T00:00:00Z'
 doi: '10.3389/fphys.2021.651408'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-4-14T00:00:00Z'
+publishDate: '2021-04-14T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
