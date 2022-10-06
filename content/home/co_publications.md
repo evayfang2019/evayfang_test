@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title:  Publications
-subtitle: 'b. Collaborative Publications'
+subtitle: 'Collaborative Publications'
 
 content:
   # Filter on criteria
