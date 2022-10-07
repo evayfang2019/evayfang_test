@@ -29,10 +29,9 @@ experience:
     location: Wuhan
     date_start: '2020-09-01'
     date_end: ''
-    description: |2-
-        Advisor: 
-        * Scientific writing
-        [Prof. Huiping Zhang](http://irh.hust.edu.cn/info/1029/1211.htm)
+    Advisor: Prof. Huiping Zhang
+    Advisor_url: http://irh.hust.edu.cn/info/1029/1211.htm
+    description: ""
         
   - title: Reaserch Advisor of Undergraduates of Zhang's Lab.
     company: Institution of Reproductive Health, Tongji Medical College, HUST
