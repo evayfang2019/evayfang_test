@@ -29,7 +29,7 @@ experience:
     location: Wuhan
     date_start: '2020-07-01'
     date_end: ''
-    description: advisor, Prof. Huiping Zhang (http://irh.hust.edu.cn/info/1029/1211.htm)
+    description: advisor: [Prof. Huiping Zhang](http://irh.hust.edu.cn/info/1029/1211.htm)
     
   - title: Reaserch Advisor of Undergraduates of Zhang's Lab.
     company: Institution of Reproductive Health, Tongji Medical College, HUST
