@@ -51,7 +51,7 @@ abstract: Mancozeb (MZ), an antibacterial pesticide, has been linked to reproduc
 # Summary. An optional shortened abstract.
 summary: RNA sequencing predicts the mechanism of MZ-induced cardiotoxicity in zebrafish. Transcriptomic analysis indicated the Notch signaling pathway may be related to the cardiotoxicity of zebrafish embryos. Activating AhR signaling pathway may be related to zebrafish cardiomyocyte apoptosis and cardiac malformations.
 
-tags: []
+tags: ["Birth Defect","Environment", "Exposure", "Developmental"]
 
 # Display this page in the Featured widget?
 featured: false

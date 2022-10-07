@@ -52,7 +52,7 @@ abstract: Coronavirus disease 2019 (COVID-2019) caused by severe acute respirato
 # Summary. An optional shortened abstract.
 summary: Some previous studies and recent bioinformatics analysis showed that SARS-CoV-2 could infect ACE2-positive cells, including Leydig cells, SCs, and germ cells. Moreover, due to the characteristic immune function of the testis and potential immune-mediated damage caused by a cytokine storm, lymphopenia, and immunodepletion by COVID-19, male patients, especially with severe COVID-19, might exhibit impairments in fertility.
 
-tags: []
+tags: ["Male","Infertility","Infection","COVID-19","Immunity","Inflammation"]
 
 # Display this page in the Featured widget?
 featured: false

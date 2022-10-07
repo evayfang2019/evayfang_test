@@ -52,7 +52,7 @@ abstract: Sperm DNA injury is one of the common causes of male infertility. Foli
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["Male", "infertility", "Sperm", "Nutrition", "Mechanism"]
 
 # Display this page in the Featured widget?
 featured: false

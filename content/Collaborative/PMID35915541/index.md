@@ -1,5 +1,5 @@
 ---
-title: 'Severe Acute Respiratory Syndrome Coronavirus 2 and Male Reproduction: Relationship, Explanations, and Clinical Remedies'
+title: 'Testicular exosomes disturb the immunosuppressive phenotype of testicular macrophages mediated by miR-155-5p in uropathogenic Escherichia coli-induced orchitis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -30,7 +30,7 @@ author_notes:
   - 'Corresponding author'
   
 date: '2022-07-29T00:00:00Z'
-doi: '0.4103/aja202243'
+doi: '10.4103/aja202243'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-07-29T00:00:00Z'
@@ -50,7 +50,7 @@ abstract: Male reproductive infections are known to shape the immunological home
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["Male","Infertility","Infection","Immunity","Inflammation","Sperm"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -60,7 +60,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "https://www.ajandrology.com/temp/AsianJAndrol000-5781318_160333.pdf"
+url_pdf: "https://www.ajandrology.com/downloadpdf.asp?id=352984;type=2"
 url_code: ''
 url_dataset: ''
 url_poster: ''
