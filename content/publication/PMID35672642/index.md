@@ -43,7 +43,7 @@ abstract: Gestational diabetes mellitus (GDM) has become a global concern for it
 # Summary. An optional shortened abstract.
 summary: Our meta-analysis proposes another important sight to investigate the etiology of metabolic gestational disease in terms of the alterations after heavy metal exposure. 
 
-tags: []
+tags: ["Environment", "Exposure", "Heavy Metal", "GDM","Gestational Diabetes Mellitus", "Adverse Pregnancy Outcome", "Meta-analysis"]
 
 # Display this page in the Featured widget?
 featured: false

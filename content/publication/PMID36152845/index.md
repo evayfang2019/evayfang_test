@@ -50,7 +50,7 @@ abstract: Mono(2-ethylhexyl) phthalate (MEHP) is a metabolite of DEHP which is o
 # Summary. An optional shortened abstract.
 summary: Higher doses of MEHP lead to stronger metabolic perturbations in trophoblast cells. Amino acid, pyrimidine, and glutathione metabolism were affected by MEHP. 5′-UMP and N-acetylputrescine as potential sensitively markers for MEHP exposure.
 
-tags: []
+tags: ["Environment", "Exposure","Phthalic Acid Esters","Adverse Pregnancy Outcome","Metabolomics","Biomarker"]
 
 # Display this page in the Featured widget?
 featured: true

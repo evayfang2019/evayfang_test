@@ -38,7 +38,7 @@ abstract: Gamete abnormalities and reproductive system tumors have become a domi
 # Summary. An optional shortened abstract.
 summary: m6A is extremely important for mRNA metabolism at different stage, from processing in the nucleus to translation and decay in the cytoplasm. In this review, we summarized that m6A modification and its regulators played a key role in the occurrence and development of oogenesis and female reproductive system diseases.
 
-tags: []
+tags: ["female","N6-methyladenosine","m6A", "Infertility", "Tumor", "Mechanism"]
 
 # Display this page in the Featured widget?
 featured: true

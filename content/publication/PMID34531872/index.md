@@ -44,7 +44,7 @@ abstract: The testicular immune microenvironment is composed of common immune ce
 # Summary. An optional shortened abstract.
 summary: The testicular immune response, including the production of ASAs and inflammatory factors, activation of inflammatory pathways, and destruction of the BTB may be involved in the pathogenesis of VMI it is necessary to further explore how patient outcomes can be improved through immunotherapy.
 
-tags: []
+tags: ["Male", "Infertility", "Varicocele", "Immunity", "Inflammation", "Mechanism"]
 
 # Display this page in the Featured widget?
 featured: false
