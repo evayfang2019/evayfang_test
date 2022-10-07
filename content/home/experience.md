@@ -22,15 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Master's Degree Candidate in Medicine (Obstetrics and Gynecology)
-    company: Huazhong University of Science and Technology
-    company_url: 'http://english.hust.edu.cn/'
-    company_logo: ""
-    location: Wuhan
-    date_start: '2020-07-01'
-    date_end: ''
-    description: advisor, Prof. Huiping Zhang (http://irh.hust.edu.cn/info/1029/1211.htm)
-
   - title: Reaserch Advisor of Undergraduates of Zhang's Lab.
     company: Institution of Reproductive Health, Tongji Medical College, HUST
     company_url: 'http://irh.hust.edu.cn/index.htm'
