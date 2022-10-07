@@ -28,16 +28,16 @@ content:
   email: evayfang@163.com
   phone: +86 137 2035 4991
   address:
-    street: 13 Hangkong Road
+    street: NO. 13 Hangkong Road
     city: Wuhan
     region: Hubei
     postcode: '430000'
     country: China
-    country_code: CHN
+    country_code: CN
   coordinates:
     latitude: '30.3454'
     longitude: '114.1542'
-  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: ""
   office_hours:
     - 'Weekdays UTF+8 08:00 to 20:00'
     - 'Weekends UTF+8 09:00 to 17:00'
