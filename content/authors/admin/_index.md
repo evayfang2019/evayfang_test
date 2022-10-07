@@ -6,7 +6,7 @@ title: Yiwei Fang
 superuser: true
 
 # Role/position/tagline
-role: Master Degree Canditate of Medicine
+role: Master's Degree Candidate in Medicine
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,19 +14,19 @@ organizations:
     url: http://english.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reproductive epidemiology, environmental Health, metabolomics and data science.
+bio: My research interests include Reproductive epidemiology and maternal nutrition, Environmental exposure and pregnancy outcomes, Metabolomics for exploring biomarkers of pregnancy outcomes,Paternal factors for pregnancy outcomes.
 
 # Interests to show in About widget
 interests:
-  - Reproductive Epidemiology
-  - Environmental Health
-  - Metabolomics
-  - Data Science
+  - Reproductive epidemiology and maternal nutrition
+  - Environmental exposure and pregnancy outcomes
+  - Metabolomics for exploring biomarkers of pregnancy outcomes
+  - Paternal factors for pregnancy outcomes
 
 # Education to show in About widget
 education:
   courses:
-    - course: Master Degree Canditate of Medicine (Obstetrics and Gynecology)
+    - course: Master's Degree Candidate in Medicine (Obstetrics and Gynecology)
       institution: Huazhong University of Science and Technology
       year: Jul 2020 - Present
     - course: Bachelor's Degree in Clinical Medicine
@@ -76,7 +76,7 @@ email: 'evayfang@163.com'
 highlight_name: true
 ---
 
-I am now a master degree canditate of medicine, and I major in obstetrics and gynecology at the Institution of Reproductive Health, Tongji Medical College, HUST. My overarching research interests include reproductive epidemiology, environmental health, metabolomics and data science. Specifically, I am interested in data science, including 1) Statistical analysis of mixed exposures, 2) Dose-response metabolomics study, and 3) Metabolomics-wide association study.
+I am now a master's degree candidate in medicine, and I major in obstetrics and gynecology at the Institution of Reproductive Health, Tongji Medical College, HUST. My overarching research interests include Reproductive epidemiology and maternal nutrition, Environmental exposure and pregnancy outcomes, Metabolomics for exploring biomarkers of pregnancy outcomes, Paternal factors for pregnancy outcomes. Specifically, I am particularly interested in data science, including 1) Statistical analysis of mixed exposures, 2) Dose-response metabolomics study, and 3) Metabolomics-wide association study.
 
 In the meantime, my ongoing research efforts include early diagnostic markers for pregnancy-related diseases and adverse birth outcomes, as well as cause-and-effect inference studies. The strategy is to promote maternal and child health through "establishing association - identifying etiology - early predicting - timely intervention"
 
