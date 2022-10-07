@@ -20,18 +20,18 @@ bio: My research interests include Reproductive epidemiology and maternal nutrit
 interests:
   - Reproductive epidemiology and maternal nutrition
   - Environmental exposure and pregnancy outcomes
-  - Metabolomics for exploring biomarkers of pregnancy outcomes
+  - Metabolomics for exploring biomarkers
   - Paternal factors for pregnancy outcomes
 
 # Education to show in About widget
-#education:
-#  courses:
-#    - course: Master's Degree Candidate in Medicine (Obstetrics and Gynecology)
-#      institution: Huazhong University of Science and Technology
-#      year: Jul 2020 - Present
-#    - course: Bachelor's Degree in Clinical Medicine
-#      institution: Wuhan University of Science and Technology
-#      year: Sep 2015 - Jun 2020
+education:
+  courses:
+    - course: Master's Degree Candidate in Medicine (Obstetrics and Gynecology)
+      institution: Huazhong University of Science and Technology
+      year: Jul 2020 - Present
+    - course: Bachelor's Degree in Clinical Medicine
+      institution: Wuhan University of Science and Technology
+      year: Sep 2015 - Jun 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
