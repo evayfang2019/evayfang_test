@@ -1,9 +1,9 @@
 ---
-tags = ["Environment", "Exposure", "Metabolomics", "Biomarkers", "Pregnancy outcomes"]
-
 # An instance of the Tag Cloud widget.
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
+
+tags = ["Environment", "Exposure", "Metabolomics", "Biomarkers", "Pregnancy outcomes"]
 
 # This file represents a page section.
 headless: true
