@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Education & Experience
 subtitle: 
 
 # Date format for experience
@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Master's Degree Candidate in Medicine (Obstetrics and Gynecology)
+    company: Institution of Reproductive Health, Tongji Medical College, HUST
+    company_url: 'http://irh.hust.edu.cn/index.htm'
+    company_logo: ""
+    location: Wuhan
+    date_start: '2020-09-01'
+    date_end: ''
+    description: |2-
+        Advisor: [Prof. Huiping Zhang](http://irh.hust.edu.cn/info/1029/1211.htm)
+        
   - title: Reaserch Advisor of Undergraduates of Zhang's Lab.
     company: Institution of Reproductive Health, Tongji Medical College, HUST
     company_url: 'http://irh.hust.edu.cn/index.htm'
@@ -36,7 +46,7 @@ experience:
         * Medical statistics
         * Systematic review and meta-analysis
         * R, SPSS, STATA
-        
+    
   - title: Intern
     company: Puren hospital affiliated to Wuhan University of Science and Technology
     company_url: 'http://www.purenyy.com/index.html#/'
@@ -45,7 +55,16 @@ experience:
     date_start: '2018-09-01'
     date_end: '2020-05-31'
     description: Surgery assistant,Case records.
-
+    
+  - title: Bachelor's Degree in Clinical Medicine
+    company: Wuhan University of Science and Technology
+    company_url: 'https://www.wust.edu.cn/english/'
+    company_logo: ""
+    location: Wuhan
+    date_start: '2020-09-01'
+    date_end: '2020-06-31'
+    description: ""
+    
 design:
   columns: '2'
 ---
