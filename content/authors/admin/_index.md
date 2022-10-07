@@ -24,14 +24,14 @@ interests:
   - Paternal factors for pregnancy outcomes
 
 # Education to show in About widget
-education:
-  courses:
-    - course: Master's Degree Candidate in Medicine (Obstetrics and Gynecology)
-      institution: Huazhong University of Science and Technology
-      year: Jul 2020 - Present
-    - course: Bachelor's Degree in Clinical Medicine
-      institution: Wuhan University of Science and Technology
-      year: Sep 2015 - Jun 2020
+#education:
+#  courses:
+#    - course: Master's Degree Candidate in Medicine (Obstetrics and Gynecology)
+#      institution: Huazhong University of Science and Technology
+#      year: Jul 2020 - Present
+#    - course: Bachelor's Degree in Clinical Medicine
+#      institution: Wuhan University of Science and Technology
+#      year: Sep 2015 - Jun 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -36,7 +36,7 @@ item:
     date_start: '2021-12-01'
     description: 
     organization: Sinopharm Gene Technology Co., Ltd
-    organization_url: http://www.sinopharm.com/
+    organization_url: http://www.sinopharm.com/en
     title: <font color=Blue>**Scholarship of Sinopharm Gene**</font> 
     url: ""
   - certificate_url: ""
