@@ -46,7 +46,7 @@ abstract: This systematic review and meta-analysis was aimed at determining whet
 # Summary. An optional shortened abstract.
 summary: Paternal age is associated with a moderate increase in the incidence of urogenital and cardiovascular abnormalities, facial deformities, and chromosome disorders.
 
-tags: []
+tags: ["Paternal Factor","Adverse Pregnancy Outcome", "Birth Defect"]
 
 # Display this page in the Featured widget?
 featured: false
