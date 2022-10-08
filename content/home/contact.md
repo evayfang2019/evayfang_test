@@ -39,8 +39,8 @@ content:
     longitude: '114.25666'
   directions: ""
   office_hours:
-    - 'Weekdays UTF+8 08:00 to 20:00'
-    - 'Weekends UTF+8 09:00 to 17:00'
+    - 'Weekdays UTC+8 08:00 to 20:00'
+    - 'Weekends UTC+8 09:00 to 17:00'
   # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
