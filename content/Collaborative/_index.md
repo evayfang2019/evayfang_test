@@ -11,6 +11,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: 'publication'
+  caption: 'Collaborative'
   image: 'static/media/publication.png'
 ---
