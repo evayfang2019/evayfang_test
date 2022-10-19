@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
   - certificate_url: ""
     date_end: ''
+    date_start: '2022-10-20'
+    description: ''
+    organization: Ministry of Education of the People’s Republic of China
+    organization_url: http://en.moe.gov.cn/
+    title: <font color=Blue>**China National Scholarship**</font>
+    url: ''
+  - certificate_url: ""
+    date_end: ''
     date_start: '2021-11-01'
     description: ''
     organization: Huazhong University of Science and Technology
