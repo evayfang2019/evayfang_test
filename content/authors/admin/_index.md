@@ -78,8 +78,6 @@ highlight_name: true
 
 I am now a master's degree candidate in medicine, and I major in Obstetrics & Gynecology at the Institute of Reproductive Health, Tongji Medical College, HUST. My overarching research interests include Reproductive epidemiology, Environmental health, and Metabolomics.
 
-Specifically, The contents of my master's thesis include 1) Statistical analysis of mixed exposures, 2) Dose-response metabolomics study, and 3) Metabolomics-wide association study. In the meantime, my ongoing research efforts include predictive models/markers for reproductive related diseases, as well as cause-and-effect inference studies.
-
-The strategy is to promote maternal and child health through "establishing association - identifying etiology - early predicting - timely intervention"
+Specifically, The contents of my master's thesis include 1) Statistical analysis of mixed exposures, 2) Dose-response metabolomics study, and 3) Metabolomics-wide association study. In the meantime, my ongoing research efforts include predictive models/markers for reproductive related diseases, as well as cause-and-effect inference studies. The strategy is to promote maternal and child health through "establishing association - identifying etiology - early predicting - timely intervention"
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

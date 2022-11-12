@@ -62,7 +62,7 @@ experience:
     location: Wuhan
     date_start: '2018-09-01'
     date_end: '2020-05-31'
-    description: Surgery assistant,Case records.
+    description: Clinical skills training, Surgery assistant, Case records.
     
 
 design:
