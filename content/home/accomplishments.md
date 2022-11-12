@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Ministry of Education of the People’s Republic of China
     organization_url: http://en.moe.gov.cn/
-    title: <font color=Blue>**China National Scholarship**</font>
+    title: China National Scholarship
     url: ''
   - certificate_url: ""
     date_end: ''
@@ -37,7 +37,7 @@ item:
     description: ''
     organization: Huazhong University of Science and Technology
     organization_url: http://english.hust.edu.cn/
-    title: <font color=Blue>**Merit student**</font>
+    title: Merit student
     url: ''
   - certificate_url: ""
     date_end: ''
@@ -45,7 +45,7 @@ item:
     description: 
     organization: Sinopharm Gene Technology Co., Ltd
     organization_url: http://www.sinopharm.com/en
-    title: <font color=Blue>**Scholarship of Sinopharm Gene**</font> 
+    title: Scholarship of Sinopharm Gene
     url: ""
   - certificate_url: ""
     date_end: ''
@@ -53,7 +53,7 @@ item:
     description: ''
     organization: Huazhong University of Science and Technology
     organization_url: http://english.hust.edu.cn/
-    title: <font color=Blue>**First-class academic scholarship**</font>
+    title: First-class academic scholarship
     url: ''
   - certificate_url: ""
     date_end: ''
@@ -61,7 +61,7 @@ item:
     description: ''
     organization: Huazhong University of Science and Technology
     organization_url: http://english.hust.edu.cn/
-    title: <font color=Blue>**First-class academic scholarship**</font>
+    title: First-class academic scholarship
     url: ''
   - certificate_url: ""
     date_end: ''
@@ -69,7 +69,7 @@ item:
     description: ''
     organization: Wuhan University of Science and Technology
     organization_url: https://www.wust.edu.cn/english/
-    title: <font color=Blue>**Pacemaker to Merit Student**</font>
+    title: Pacemaker to Merit Student
     url: '' 
     
 design:

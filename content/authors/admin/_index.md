@@ -18,10 +18,10 @@ bio: My research interests include Reproductive epidemiology and maternal nutrit
 
 # Interests to show in About widget
 interests:
-  - Reproductive epidemiology and maternal nutrition
-  - Environmental exposure and pregnancy outcomes
-  - Metabolomics for exploring biomarkers
-  - Paternal factors for pregnancy outcomes
+  - Reproductive epidemiology
+  - Environmental health
+  - Metabolomics
+  - Molecular mechanisms
 
 # Education to show in About widget
 education:
@@ -76,8 +76,10 @@ email: 'evayfang@163.com'
 highlight_name: true
 ---
 
-I am now a master's degree candidate in medicine, and I major in obstetrics and gynecology at the Institution of Reproductive Health, Tongji Medical College, HUST. My overarching research interests include Reproductive epidemiology and maternal nutrition, Environmental exposure and pregnancy outcomes, Metabolomics for exploring biomarkers of pregnancy outcomes, Paternal factors for pregnancy outcomes. Specifically, I am particularly interested in data science, including 1) Statistical analysis of mixed exposures, 2) Dose-response metabolomics study, and 3) Metabolomics-wide association study.
+I am now a master's degree candidate in medicine, and I major in Obstetrics & Gynecology at the Institute of Reproductive Health, Tongji Medical College, HUST. My overarching research interests include Reproductive epidemiology, Environmental health, and Metabolomics.
 
-In the meantime, my ongoing research efforts include early diagnostic markers for pregnancy-related diseases and adverse birth outcomes, as well as cause-and-effect inference studies. The strategy is to promote maternal and child health through "establishing association - identifying etiology - early predicting - timely intervention"
+Specifically, The contents of my master's thesis include 1) Statistical analysis of mixed exposures, 2) Dose-response metabolomics study, and 3) Metabolomics-wide association study. In the meantime, my ongoing research efforts include predictive models/markers for reproductive related diseases, as well as cause-and-effect inference studies.
+
+The strategy is to promote maternal and child health through "establishing association - identifying etiology - early predicting - timely intervention"
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
