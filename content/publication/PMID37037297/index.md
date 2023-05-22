@@ -7,28 +7,28 @@ title: 'The value of lipid metabolites 9,10-DOA and 11,12-EET in prenatal diagno
 authors: 
   - admin
   - Zheng Zhang
-  - Yun Zhao
-  - Guoqiang Sun
-  - Meilin Peng
-  - Chunyan Liu
-  - Guilin Yi
+  - Yun Zhao  
+  - Guoqiang Sun  
+  - Meilin Peng  
+  - Chunyan Liu  
+  - Guilin Yi   
   - Kai Zhao
-  - Hui Yang 
+  - Hui Yang
 
 # Author notes (optional)
 author_notes:
   - 'First author'
-  - 'Co-First author'
-  - 'Co-author'
-  - 'Co-author'
-  - 'Co-author'
-  - 'Co-author'
+  - "Co-first author "
+  - "Co-author "
+  - "Co-author "
+  - "Co-author "
+  - "Co-author "
   - 'Corresponding author'
   - 'Corresponding author'
   - 'Corresponding author'
   
 date: '2023-04-01T00:00:00Z'
-doi: '10.1016/j.cca.2023.117330'
+doi: '10.18632/aging.104141'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-04-01T00:00:00Z'
@@ -43,14 +43,12 @@ publication_types: ['2']
 publication: In *Clinica Chimica Acta*
 publication_short: In *Clin Chim Acta*
 
-abstract: Aims: To explore the maternal metabolic changes of fetal congenital heart disease (FCHD), and screen metabolic markers to establish a practical diagnostic model. Methods: Maternal peripheral serum from 17 FCHD and 63 non-FCHD pregnant were analyzed by Ultra High-performance Liquid Chromatography-Mass/Mass (UPLC-MS/MS). Results: In the FCHD and the non-FCHD, 132 metabolites were identified, including 35 differential metabolites enriched in the purine, caffeine, primary bile acid, and arachidonic acid metabolism pathway. Finally, the screened (+/-)9,10-dihydroxy-12Z-octadecenoic acid (AUC = 0.888) and 11,12-epoxy-(5Z,8Z,11Z)-icosatrienoic acid (AUC = 0.995) were incorporated into the logistic regression model. The AUC value of the two-metabolite model was 1.0, superior to proline (AUC = 0.867), uric acid (AUC = 0.789), glutamine (AUC = 0.705), and taurine (AUC = 0.923) previously reported. The clinical decision curve analysis (DCA) showed the highest clinical net benefit of the model, and internal validation by bootstrap shows the robustness of the model (Brier Score = 0.005). Conclusion: For the prenatal diagnosis of CHD, our findings are of great clinical significance. As an additional screening procedure, the identification model might be used to detect.
-
-Keywords: Biomarker; Congenital heart disease; Diagnostic model; Metabolomics; Pregnancy.
+abstract: Aims: To explore the maternal metabolic changes of fetal congenital heart disease (FCHD), and screen metabolic markers to establish a practical diagnostic model.Methods: Maternal peripheral serum from 17 FCHD and 63 non-FCHD pregnant were analyzed by Ultra High-performance Liquid Chromatography-Mass/Mass (UPLC-MS/MS).Results: In the FCHD and the non-FCHD, 132 metabolites were identified, including 35 differential metabolites enriched in the purine, caffeine, primary bile acid, and arachidonic acid metabolism pathway. Finally, the screened (+/-)9,10-dihydroxy-12Z-octadecenoic acid (AUC = 0.888) and 11,12-epoxy-(5Z,8Z,11Z)-icosatrienoic acid (AUC = 0.995) were incorporated into the logistic regression model. The AUC value of the two-metabolite model was 1.0, superior to proline (AUC = 0.867), uric acid (AUC = 0.789), glutamine (AUC = 0.705), and taurine (AUC = 0.923) previously reported. The clinical decision curve analysis (DCA) showed the highest clinical net benefit of the model, and internal validation by bootstrap shows the robustness of the model (Brier Score = 0.005).Conclusion: For the prenatal diagnosis of CHD, our findings are of great clinical significance. As an additional screening procedure, the identification model might be used to detect.
 
 # Summary. An optional shortened abstract.
-summary: Higher doses of MEHP lead to stronger metabolic perturbations in trophoblast cells. Amino acid, pyrimidine, and glutathione metabolism were affected by MEHP. 5â€?UMP and N-acetylputrescine as potential sensitively markers for MEHP exposure.
+summary: FCHD maternal metabolism changes significantly. Most importantly, we screened two key metabolites 9,10-DOA and 11,12-EET, and established an accurate and practical FCHD recognition model.
 
-tags: ["Congenital heart disease", "Birth Defect","Pregnancy","Adverse Pregnancy Outcome","Metabolomics","Biomarker"]
+tags: ["Metabolomics","Adverse Pregnancy Outcome", "Birth Defect","Biomarker","Congenital heart disease","Pregnancy"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -60,7 +58,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://linkinghub.elsevier.com/retrieve/pii/S0009-8981(23)00132-8'
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0009898123001328/pdfft?md5=401baaf3301ad83c9b248dbb47e7213b&pid=1-s2.0-S0009898123001328-main.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -72,9 +70,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://linkinghub.elsevier.com/retrieve/pii/S0009-8981(23)00132-8)'
+  caption: 'Image credit: [**Unsplash**](https://www.sciencedirect.com/science/article/pii/S0009898123001328?via%3Dihub)'
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
