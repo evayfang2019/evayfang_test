@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
   - certificate_url: ""
     date_end: ''
+    date_start: '2023-05-15'
+    description: ''
+    organization: Huazhong University of Science and Technology
+    organization_url: http://english.hust.edu.cn/
+    title: Outstanding graduate student
+    url: 'http://gszz.hust.edu.cn/info/1087/3495.htm'
+  - certificate_url: ""
+    date_end: ''
     date_start: '2022-10-20'
     description: ''
     organization: Ministry of Education of the People’s Republic of China
