@@ -28,7 +28,7 @@ author_notes:
   - 'Corresponding author'
   
 date: '2023-04-01T00:00:00Z'
-doi: '10.18632/aging.104141'
+doi: '10.1016/j.cca.2023.117330'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-04-01T00:00:00Z'
