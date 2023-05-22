@@ -32,7 +32,7 @@ author_notes:
   - 'Corresponding author'
   
 date: '2022-07-10T00:00:00Z'
-doi: '10.1016/j.cca.2023.117330'
+doi: '0.13263/j.cnki.nja.2022.10.002'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-07-10T00:00:00Z'
@@ -45,14 +45,14 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *National Journal of Andrology*
-publication_short: In *National Journal of Andrology*
+publication_short: In *NJA*
 
-abstract: To explore the relationship between phthalate esters£¨PAEs£© and polycyclic aromatic hydrocarbons£¨PAHs£© exposure and clinical preterm birth during early pregnancy. A total of 821 pregnant women, receiving their prenatal examination in Hubei Provincial Maternal and Child Health Care Hospital, were selected. Baseline questionnaire survey, morning urine collection and follow-up to pregnancy outcome were conducted. A total of ten PAE and ten PAH metabolites were quantitatively analyzed in urine samples. The Mann-Whitney U test, chi-square test, and the logistic regression models were used to analyze. The detection rate of five exposures in PAEs was more than 80%, and the detection rate of phthalic acid monobenzyl ester (MBzP) was less than 50%. The detection rate of 5 exposures in PAHs was more than 80%, and the detection rate of 3-hydroxyphene (3-OHPHE) was the highest (86.91%), while the detection rate of 4-hydroxyphene (4-OHPHE) was less than 50%. logistic regression analysis found that the risk of preterm delivery was higher in the MBzP group than in the corresponding low exposure group (aOR=2.26, 95%CI 1.17,4.39). This study found that high levels of MBzP exposure may be a risk factor for preterm birth.
+abstract: To explore the relationship between phthalate esters£¨PAEs£©and polycyclic aromatic hydrocarbons£¨PAHs£© exposure and clinical preterm birth during early pregnancy. A total of 821 pregnant women, receiving their prenatal examination in Hubei Provincial Maternal and Child Health Care Hospital, were selected. Baseline questionnaire survey, morning urine collection and follow-up to pregnancy outcome were conducted. A total of ten PAE and ten PAH metabolites were quantitatively analyzed in urine samples. The Mann-Whitney U test, chi-square test, and the logistic regression models were used to analyze. The detection rate of five exposures in PAEs was more than 80%, and the detection rate of phthalic acid monobenzyl ester (MBzP) was less than 50%. The detection rate of 5 exposures in PAHs was more than 80%, and the detection rate of 3-hydroxyphene (3-OHPHE) was the highest (86.91%), while the detection rate of 4-hydroxyphene (4-OHPHE) was less than 50%. logistic regression analysis found that the risk of preterm delivery was higher in the MBzP group than in the corresponding low exposure group (aOR=2.26, 95%CI 1.17,4.39). This study found that high levels of MBzP exposure may be a risk factor for preterm birth.
 
 # Summary. An optional shortened abstract.
 summary: NONE.
 
-tags: ["Preterm Birth","Adverse Pregnancy Outcome", "Environment","Exposure","EDCs","Pregnancy"]
+tags: ["Preterm Birth","Adverse Pregnancy Outcome","Environment","Exposure","EDCs","Pregnancy"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -62,7 +62,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UKmlM72BFpFqQrlfCwMXD5Qo3sESCxxzLgTRJbcg_pre&uniplatform=NZKPT"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
