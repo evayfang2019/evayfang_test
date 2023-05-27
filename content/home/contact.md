@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: evayfang@163.com
-  phone: +86 137 2035 4991
+  phone: 
   address:
     street: NO. 13 Hangkong Road
     city: Wuhan
